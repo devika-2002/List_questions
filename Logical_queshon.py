@@ -94,3 +94,24 @@
 #     b.append(c)
 #     i=i+2
 # print(b)    
+
+
+
+# # o/p [[5,25],[10,20][7,23]]
+# list=[20,5,10,23,25,7]
+# c=30
+# i=0
+# a=[]
+# while i<len(list):
+#     j=0
+#     b=[]
+#     while j<len(list):
+#         if list[i]+list[j]==c and list[j]>list[i]:
+#             b.append(list[i])
+#             b.append(list[j])
+#             a.append(b)
+#         j=j+1
+#     i=i+1
+# print(a)
+
+

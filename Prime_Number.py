@@ -23,3 +23,4 @@ while i<len(a):
     else:  
         print(a[i],"is not a prime number")
     i+=1
+
