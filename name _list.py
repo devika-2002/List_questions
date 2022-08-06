@@ -14,9 +14,9 @@
 # 16
 
 # n=int(input("enter the number"))
-i=0
-while i<20:
+# i=0
+# while i<20:
     
-    print(i)
-    i=i+1
+#     print(i)
+#     i=i+1
     
