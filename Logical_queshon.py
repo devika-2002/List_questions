@@ -24,7 +24,8 @@
 #     i=i+1
 # print(b)
 
-# b='aaabbbcccddd'
+# # b='aaabbbcccddd'
+# b="devika"
 # # O/P:-['a','b','c','d']
 # i=0
 # a=[]
