@@ -11,7 +11,8 @@
 # print("vowel",b)
 # print("con",c)
 
-a="Devika"
+# a="Devika"
+a="pythonlanguagr"
 i=0
 b=0
 c=0

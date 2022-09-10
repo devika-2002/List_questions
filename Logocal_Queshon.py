@@ -1,9 +1,10 @@
-list=[[4,1,6],[7,8],4,10,8]
-b=[]
+s='AABCAAADA'
 i=0
-while i<len(list):
-    if list[i]:
-       list[i]
+while i<len(s):
+    print(s[i]+s[i+2])
+    if i==1:
+        # print(s[i]+s[i+2])
+        print(s[i+4]+s[i+6])
+        break
     i=i+1
-print(list)
-
+    

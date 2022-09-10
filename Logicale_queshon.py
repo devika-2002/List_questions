@@ -1,17 +1,17 @@
 #1...# Ek user input lena hai  OR  hum jo EK variable me hum store a=2647
 # # ye wala number store kr diye  OR o/p :-6 dena cha hiye 
 
-# user=input("enter the number")
-# a="2367"
-# i=0
-# b=str(a)
-# while i<len(user):
-#     if "6" in user[i] and b[i]:
-#         print("true")
-#     else:
-#         print("false")
+user=input("enter the number")
+a="2367"
+i=0
+b=str(a)
+while i<len(user):
+    if "6" in user[i] and b[i]:
+        print("true")
+    else:
+        print("false")
         
-#     i=i+1
+    i=i+1
        
 
 # #2..# jo hmara a="3456"  diya huaa hai aager ya user ne yhi number diya to 

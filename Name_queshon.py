@@ -25,14 +25,14 @@
 #     i+=1
 # print(s)
 
-# name="My 2 name3e i5s devika2.4"
-# i=0
-# a=" "
-# while i<len(name):
-#     if (name[i]>='A' or name[i]>='a') and (name[i]<='Z' or name[i]<='z') or name[i]==" ":
-#         a+=name[i]        
-#     i=i+1
-# print(a.split())
+name="My 2 name3e i5s devika2.4"
+i=0
+a=" "
+while i<len(name):
+    if (name[i]>='A' or name[i]>='a') and (name[i]<='Z' or name[i]<='z') or name[i]==" ":
+        a+=name[i]        
+    i=i+1
+print(a.split())
           
 # Str = "My 2 nam3e i5s priyanka2.4"
 # # output = ["my","name","is","priyanka"]
@@ -71,11 +71,11 @@
 # # print(a.split())
 # print(b)
 
-Str = "My 2 nam3e i5s priyanka2.4"
-# output = ['23524']
-s = " "
-for i in Str:
-    if i.isdigit():
-        s+=i
-        d = s.split()
-print(d)
+# Str = "My 2 nam3e i5s priyanka2.4"
+# # output = ['23524']
+# s = " "
+# for i in Str:
+#     if i.isdigit():
+#         s+=i
+#         d = s.split()
+# print(d)

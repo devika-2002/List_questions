@@ -1,11 +1,11 @@
-# name="devika"
-# i=0
-# b=[]
-# s=' '
-# while i<len(name):
-#     b.append(name[i]*5)
-#     i=i+1
-# print(b)
+name="devika"
+i=0
+b=[]
+s=' '
+while i<len(name):
+    b.append(name[i]*5)
+    i=i+1
+print(b)
 
 # 0
 # 1
