@@ -34,8 +34,8 @@ while i<len(name):
     i=i+1
 print(a.split())
           
-# Str = "My 2 nam3e i5s priyanka2.4"
-# # output = ["my","name","is","priyanka"]
+# Str = "My 2 nam3e i5s devika2.4"
+# # output = ["my","name","is","devika"]
 # s = " "
 # for i in Str:
 #     if not i.isdigit():
